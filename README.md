@@ -31,7 +31,7 @@ Next, like the above, reassign the `flatiron_mantra` variable with the string `"
 ```python
 flatiron_mantra = "Learn. Love. Code."
 flatiron_mantra
-```
+
 
 
 
